@@ -17,3 +17,5 @@ Based on these input show the output for the users
 
 
 After the flow ends - If a user says ”more operations” , take the new inputs and proceed
+
+Type an expression such as 1 + 1 and then the bot will answer back with the answer!
